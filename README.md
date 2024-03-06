@@ -1,4 +1,4 @@
-What I learnt:
+# What I learnt:
 Understand basics of NumPy
 Manipulate and open Images with NumPy
 Use OpenCV to work with image files
